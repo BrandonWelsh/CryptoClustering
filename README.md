@@ -42,3 +42,5 @@ I was able to stick to the class notes for the vast majority of this project, st
 
 ## Update Log
 1/21/2024: Created github repo. Worked on assignment through finding total explained variance of the three principal components
+
+1/22/2024: Made some more progress.
