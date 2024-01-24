@@ -38,9 +38,11 @@ This section is dedicated to keep track of what I used to help complete this pro
 I was able to stick to the class notes for the vast majority of this project, stopping to ask an AI a couple questions here and there about why I was doing what I was doing.
 
 ## Bugs
-
+None that I can tell. The different dataframe names I had started getting a little complicated towards the end, it's highly possible I used the wrong dataframe but did the right thing with it. If you notice that I accidentally did anything like that, let me know.
 
 ## Update Log
 1/21/2024: Created github repo. Worked on assignment through finding total explained variance of the three principal components
 
 1/22/2024: Made some more progress.
+
+1/24/2024: Finished project, proofread, finished readme, got it ready to submit.
